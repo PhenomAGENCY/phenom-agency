@@ -1,0 +1,9 @@
+/index.html /
+/players.html /players
+/teams.html /teams
+/contact.html /contact
+
+/ /index.html 200
+/players /players.html 200
+/teams /teams.html 200
+/contact /contact.html 200
